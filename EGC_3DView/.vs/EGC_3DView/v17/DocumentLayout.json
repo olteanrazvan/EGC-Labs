@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_3DView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_3DView\\EGC_3DView\\projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E568A6BB-C263-429B-AFE2-9CAA9C6F300C}|EGC_3DView\\EGC_3DView.vcxproj|solutionrelative:EGC_3DView\\projection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "projection.cpp",
+              "DocumentMoniker": "C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_3DView\\EGC_3DView\\projection.cpp",
+              "RelativeDocumentMoniker": "EGC_3DView\\projection.cpp",
+              "ToolTip": "C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_3DView\\EGC_3DView\\projection.cpp",
+              "RelativeToolTip": "EGC_3DView\\projection.cpp",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAqwHsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T15:51:47.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

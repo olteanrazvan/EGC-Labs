@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(152,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(152,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(152,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(152,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(153,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(153,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(153,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(153,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(154,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(154,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(154,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\main.cpp(154,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  rasterization.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(45,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(46,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(47,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(47,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(55,91): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(55,77): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(55,63): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\EGC_TriangleRasterization\rasterization.cpp(55,49): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+  Generating Code...
+rasterization.lib(rasterizationValidator.obj) : warning LNK4099: PDB '' was not found with 'rasterization.lib(rasterizationValidator.obj)' or at ''; linking object as if no debug info
+  EGC_TriangleRasterization.vcxproj -> C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_TriangleRasterization\x64\Debug\EGC_TriangleRasterization.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_Lab5\\EGC_Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1ECBF43-A7B5-47E7-86BC-721613EA89EB}|EGC_Lab5\\EGC_Lab5.vcxproj|solutionrelative:EGC_Lab5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_Lab5\\EGC_Lab5\\main.cpp",
+              "RelativeDocumentMoniker": "EGC_Lab5\\main.cpp",
+              "ToolTip": "C:\\Users\\oltea\\OneDrive\\Desktop\\Razvan\\Faculta\\EGC\\EGC_Lab5\\EGC_Lab5\\main.cpp",
+              "RelativeToolTip": "EGC_Lab5\\main.cpp",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIoAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T16:34:01.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

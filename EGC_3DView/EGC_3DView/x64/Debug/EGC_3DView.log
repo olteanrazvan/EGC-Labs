@@ -1,0 +1,6 @@
+﻿  projection.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_3DView\EGC_3DView\projection.cpp(144,157): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_3DView\EGC_3DView\projection.cpp(144,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_3DView\EGC_3DView\projection.cpp(144,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_3DView\EGC_3DView\projection.cpp(144,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  EGC_3DView.vcxproj -> C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_3DView\x64\Debug\EGC_3DView.exe

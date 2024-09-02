@@ -1,0 +1,79 @@
+﻿  camera.cpp
+  main.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(148,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(148,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(154,115): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(154,124): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,86): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\auxiliary.h(167,112): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,120): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,102): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,84): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(123,56): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(207,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(243,9): error C2039: 'clearDepthBuffer': is not a member of 'egc'
+  C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.h(8,11):
+  see declaration of 'egc'
+  
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\main.cpp(243,9): error C3861: 'clearDepthBuffer': identifier not found
+  mat3.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\mat3.cpp(71,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  mat4.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\mat4.cpp(114,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  projection.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\projection.cpp(144,157): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\projection.cpp(144,126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\projection.cpp(144,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\projection.cpp(144,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  rasterization.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(37,41): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(38,41): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(39,41): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(40,41): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(44,43): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(47,43): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(51,43): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(54,43): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(68,14): error C2065: 'depthBuffer': undeclared identifier
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(69,7): error C2065: 'depthBuffer': undeclared identifier
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(71,92): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(71,78): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(71,64): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(71,50): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(72,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(72,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(82,15): error C2065: 'WINDOW_WIDTH': undeclared identifier
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(83,16): error C2065: 'WINDOW_HEIGHT': undeclared identifier
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\rasterization.cpp(86,5): error C2065: 'depthBuffer': undeclared identifier
+  transform.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\transform.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\transform.cpp(39,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\transform.cpp(91,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\transform.cpp(102,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\transform.cpp(113,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  vec2.cpp
+C:\Users\oltea\OneDrive\Desktop\Razvan\Faculta\EGC\EGC_Zbuffer\EGC_Zbuffer\vec2.cpp(35,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
